@@ -10,7 +10,7 @@ var chars = [...greeting];
 
 chars; //["H","e","l","l","o",......]
 
-Map(object,value)
+Map(object,value);
 
 var buttonNames = new Map();
 buttonName.set(btn1, "Button1");
